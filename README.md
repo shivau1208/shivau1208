@@ -4,6 +4,7 @@
 
 ## Hi there 👋
 
-- 🔭 I’m currently working as Frontend Developer
-- 🌱 I’m currently learning JavaScript, React.js, Redux and Next.js
+- 💻 I’m currently working as Frontend Developer
+- 💼 Frontend Developer with over 2 years of experience in React, Redux and Next.js. Proficient in creating efficient and user-friendly web applications.
+- 🌱 Enhancing skills on React.js, Next.js, JavaScript and Redux.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shivarajumadi/)
