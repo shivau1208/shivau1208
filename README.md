@@ -1,10 +1,7 @@
-<img src="https://github.com/shivau1208/shivau1208/assets/102743170/e71b5557-dd79-4322-a61d-5b9cbc81a6a4"/>
+## Hi there 👋 I am Shivaraj Umadi
 
+#### 💻 I’m currently working as Frontend Developer with Technologies
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js" width="30" height="30"/>&nbsp;&nbsp;<img width="30" height="30" src="https://img.icons8.com/fluency-systems-regular/30/nextjs.png" alt="nextjs"/>&nbsp;&nbsp;<img width="30" height="30" src="https://img.icons8.com/color/30/javascript--v1.png" alt="javascript--v1"/>&nbsp;&nbsp;<img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-color-tal-revivo.png" alt="external-redux-an-open-source-javascript-library-for-managing-application-state-logo-color-tal-revivo"/>&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="30" height="30"/>
+#### 💼 Also I have experience on Frontend Technologies
 
-
-## Hi there 👋
-
-- 💻 I’m currently working as Frontend Developer
-- 💼 Frontend Developer with over 2 years of experience in React, Redux and Next.js. Proficient in creating efficient and user-friendly web applications.
-- 🌱 Enhancing skills on React.js, Next.js, JavaScript and Redux.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shivarajumadi/)
