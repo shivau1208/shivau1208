@@ -23,9 +23,3 @@
 ### 📫 You can Find Me On: 
 <a href='https://www.linkedin.com/in/shivarajumadi/'><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="mailto:shivaumadi@outlook.com" target="_blank" title="shivaumadi@outlook.com" rel="noreferrer"><img width="30" height="30" src="https://img.icons8.com/fluency/30/microsoft-outlook-2019.png" alt="microsoft-outlook-2019"/></a>
-
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
