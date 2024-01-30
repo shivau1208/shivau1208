@@ -19,6 +19,8 @@
 ### <img width="15" height="15" src="https://img.icons8.com/fluency/15/project-management--v1.png" alt="project-management--v1"/> My Project Previews:
 <a href='https://github.com/shivau1208/Authentication-_with_Next.js' alt='' ><img src='https://github.com/shivau1208/Authentication-_with_Next.js/assets/102743170/8d0db04c-cc71-4f41-a650-b03ec5c7f467' width='200' /></a>&nbsp;&nbsp;
 <a href='https://github.com/shivau1208/S-ToDo' alt='' ><img src='https://github.com/shivau1208/S-ToDo/assets/102743170/ce078b10-8294-475e-8f71-97bbeffdf80d' width='200' /></a>&nbsp;&nbsp;
+<a href='https://github.com/shivau1208/buymebeer' alt='' ><img src='https://github.com/shivau1208/shivau1208/assets/102743170/f16f8acb-1bba-464c-a8ee-0252c780279f' width='200' /></a>&nbsp;&nbsp;
+
 
 ### 📫 You can Find Me On: 
 <a href='https://www.linkedin.com/in/shivarajumadi/'><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
