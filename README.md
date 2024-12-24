@@ -11,8 +11,8 @@
 <a href='https://github.com/shivau1208/Todo' alt='' >
   <img src='https://github.com/shivau1208/S-ToDo/assets/102743170/ce078b10-8294-475e-8f71-97bbeffdf80d' width='200' />
 </a>&nbsp;&nbsp;
-<a href='https://github.com/shivau1208/buymebeer' alt='' >
-  <img src='https://github.com/shivau1208/shivau1208/assets/102743170/29486251-d92b-407e-bbca-f17821240c3f' width='200' />
+<a href='https://github.com/shivau1208/buymybeer' alt='' >
+  <img src='https://github.com/user-attachments/assets/9498f131-2bf2-4315-99f9-1eb329849b7f' width='200' />
 </a>&nbsp;&nbsp;
 
 
