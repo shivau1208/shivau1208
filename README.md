@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Shivaraj Umadi
 
 #### 💻 I’m currently working as Frontend Developer with Technologies:
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,html,css,bootstrap">
+<img src="https://skillicons.dev/icons?i=react,redux,js,html,css,bootstrap">
 
 #### 💼 And Technologies I worked with:
 <img src="https://skillicons.dev/icons?i=git,vim,nodejs,github,npm">
