@@ -8,7 +8,7 @@ Passionate about building scalable and efficient web applications. Experienced i
 - **DevOps**: Docker, Git, AWS  
 
 --- 
-<img src="https://skillicons.dev/icons?i=react,redux,js,html,css,bootstrap,webpack,jest">
+<img src="https://skillicons.dev/icons?i=react,redux,js,html,css,bootstrap,webpack">
 <img src="https://skillicons.dev/icons?i=git,vim,nodejs,github,npm">
 <img src="https://skillicons.dev/icons?i=flask,postgres,prisma,postman,docker,kubernetes">
 
