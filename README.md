@@ -12,7 +12,7 @@ Passionate about building scalable and efficient web applications. Experienced i
 <img src="https://skillicons.dev/icons?i=git,vim,nodejs,github,npm">
 <img src="https://skillicons.dev/icons?i=flask,postgres,prisma,postman,docker,kubernetes">
 
-### <img width="15" height="15" src="https://img.icons8.com/fluency/15/project-management--v1.png" alt="project-management--v1"/> My Project Previews:
+### <img width="15" height="15" src="https://img.icons8.com/fluency/15/project-management--v1.png" alt="project-management--v1"/> Project Previews:
 <a href='https://github.com/shivau1208/Todo' alt='' >
   <img src='https://github.com/shivau1208/S-ToDo/assets/102743170/ce078b10-8294-475e-8f71-97bbeffdf80d' width='200' />
 </a>&nbsp;&nbsp;
