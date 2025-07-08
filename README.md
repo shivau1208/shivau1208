@@ -20,7 +20,7 @@ Passionate about building scalable and efficient web applications. Experienced i
   <img src='https://github.com/user-attachments/assets/9498f131-2bf2-4315-99f9-1eb329849b7f' width='200' />
 </a>&nbsp;&nbsp;
 
-### 🗨️ Comments Section Frontend
+### 🗨️ Comments Section
 
 This Docker image contains the **frontend application** for the Comments Section project. It delivers a fast, responsive, and embeddable UI for managing user comments across websites and applications.
 
